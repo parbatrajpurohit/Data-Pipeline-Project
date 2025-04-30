@@ -1,0 +1,12 @@
+{
+	"name": "Caoches",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://rawdata121.dfs.core.windows.net/rawdata/Data/Coaches.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
