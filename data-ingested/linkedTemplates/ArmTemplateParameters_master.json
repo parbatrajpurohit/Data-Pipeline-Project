@@ -1,0 +1,36 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "data-ingested"
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"Athletes_server_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/parbatrajpurohit/Last/main/Data/Athletes.csv"
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://rawdata121.dfs.core.windows.net/"
+		},
+		"Coaches_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/parbatrajpurohit/Last/main/Data/Coaches.csv"
+		},
+		"Gender_source_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/parbatrajpurohit/Last/main/Data/EntriesGender.csv"
+		},
+		"HttpServer4_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/parbatrajpurohit/Last/main/Data/Teams.csv"
+		},
+		"medals_source_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/parbatrajpurohit/Last/main/Data/Medals.csv"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
