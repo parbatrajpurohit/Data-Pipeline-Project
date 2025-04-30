@@ -198,7 +198,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "DelimitedText2",
+						"referenceName": "teams_sink",
 						"type": "DatasetReference"
 					}
 				]
