@@ -1,0 +1,12 @@
+{
+	"name": "Gender_source",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://raw.githubusercontent.com/parbatrajpurohit/Last/main/Data/EntriesGender.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
