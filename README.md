@@ -4,16 +4,7 @@ This project presents a full end-to-end **data engineering and analytics solutio
 
 ---
 
-## 🌐 Architecture Overview
-
-```mermaid
-graph TD
-    A[Data Source: CSV files in ADLS Gen2] --> B[Azure Data Factory]
-    B --> C[Azure Databricks for ETL]
-    C --> D[Processed Data in ADLS or Synapse SQL Pool]
-    D --> E[Azure Synapse Analytics]
-    E --> F[Power BI for Visualization]
-```
+## 🌐 Architecture Overview ![Architecture Diagram](Images/Diagram.jpg)
 
 ---
 
