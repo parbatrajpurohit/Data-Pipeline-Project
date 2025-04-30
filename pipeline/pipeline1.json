@@ -67,7 +67,7 @@
 				}
 			},
 			{
-				"name": "Copy data1",
+				"name": "teams",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
