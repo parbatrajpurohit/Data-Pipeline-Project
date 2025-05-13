@@ -63,7 +63,8 @@ This project presents a full end-to-end **data engineering and analytics solutio
 
 ## 🏆 Final Dashboard Preview
 > Real-time Olympic insights with filters by gender, team, sport, medals and region.
-
+(Images/Athletes.jpg)
+(Images/Athletes2.jpg)
 ---
 
 ## 👤 Author
